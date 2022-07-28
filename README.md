@@ -1,4 +1,6 @@
 # Proton Mail Bridge and Import Export app
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fout180%2Fproton-bridge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fout180%2Fproton-bridge?ref=badge_shield)
+
 Copyright (c) 2022 Proton AG
 
 This repository holds the Proton Mail Bridge and the Proton Mail Import-Export applications.
@@ -109,3 +111,7 @@ When bridge first starts, it generates a unique TLS certificate and key file at 
 - macOS: `~/Library/ApplicationSupport/protonmail/bridge/{cert,key}.pem`
 - Windows: `%APPDATA%\protonmail\bridge\{cert,key}.pem`
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fout180%2Fproton-bridge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fout180%2Fproton-bridge?ref=badge_large)
